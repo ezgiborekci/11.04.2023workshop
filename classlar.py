@@ -1,5 +1,5 @@
 
-#classlar-start
+#class-start
 
 #scenario1
 
@@ -122,4 +122,4 @@ human2.talk("Selam")
 human2.walk()
 print(human2)
 
-#classlar-end
+#class-end
